@@ -16,5 +16,5 @@ and tag you for approval. Choose variable and file names that will help
 people grok your code with minimal effort.*
 
 ## Visual Representation
-![Screenshot 2024-03-06 at 11.11.43.png](assets/Screenshot 2024-03-06 at 11.11.43.png)
-![Screenshot 2024-03-06 at 11.12.59.png](assets/Screenshot_2024-03-06_at_11.12.59.png)
+![buttons](https://github.com/gabrr/api-health-status/blob/main/Screenshot%202024-03-06%20at%2011.11.43.png?raw=true)
+![dashboard](https://github.com/gabrr/api-health-status/blob/main/Screenshot%202024-03-06%20at%2011.18.49.png?raw=true)
