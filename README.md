@@ -16,7 +16,7 @@ people grok your code with minimal effort.*
 
 ## Visual Representation
 ![buttons](https://github.com/gabrr/api-health-status/blob/main/Screenshot%202024-03-06%20at%2011.11.43.png?raw=true)
-![dashboard](https://github.com/gabrr/api-health-status/blob/main/Screenshot%202024-03-06%20at%2011.18.49.png?raw=true)
+![dashboard](https://github.com/gabrr/api-health-status/blob/main/Screen%20Recording%202024-03-06%20at%2018.07.59?raw=true)
 
 ## Start the project
 Install dependencies and start the project
