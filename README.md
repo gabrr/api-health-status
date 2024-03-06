@@ -38,3 +38,6 @@ It uses SOLID principles and good patterns.
 It also uses React hooks, as you can see `useHealthStatus.tsx`.
 
 It was designed previously in `Figma` and then translated into code.
+
+### Responsive Design
+You try using it on a smaller screen 370px or 4k, it will look good.
